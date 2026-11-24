@@ -1,8 +1,8 @@
 # Hospital-Management-System
 
-# Reg No:
-# Name:
-# Date:
+# Reg No:212225040405
+# Name: Sharmili V
+# Date:24/11/2026
 
 
 # AIM:
@@ -41,10 +41,7 @@ Specifying the context and requirements of a system
 → Modeling the basic flow of events in a sina use case.
 
 
-
-
-
-
+<img width="1091" height="865" alt="image" src="https://github.com/user-attachments/assets/589cd4d8-de1c-44ec-b3c7-97ca76e7f461" />
 
 # CLASS DIAGRAM
 
@@ -60,6 +57,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="775" height="625" alt="image" src="https://github.com/user-attachments/assets/b8e670db-bcc3-46d2-842f-4d3760d16232" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -68,6 +66,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
+<img width="774" height="435" alt="image" src="https://github.com/user-attachments/assets/194512ef-b440-4949-b809-14144d224c97" />
 
 
 
@@ -79,10 +78,7 @@ organization of the layered architecture within any UML classifier, such as a so
 
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
-
-
-
-
+<img width="774" height="435" alt="image" src="https://github.com/user-attachments/assets/5173904c-69d2-4d7c-9d42-b744ae84df04" />
 
 
 
@@ -98,8 +94,7 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
-
-
+<img width="392" height="795" alt="image" src="https://github.com/user-attachments/assets/5f3b66a7-a54c-4aed-afdc-a8bdf512db03" />
 
 
 # SEQUENCE DIAGRAM
@@ -119,9 +114,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 
 Plan and understand the detailed functionality of an existing or future scenario.
 
-
-
-
+<img width="976" height="841" alt="image" src="https://github.com/user-attachments/assets/76cc83b6-c5d9-44ad-b0e4-9bc1662b8fad" />
 
 
 # RESULT
